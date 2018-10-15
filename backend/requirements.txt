@@ -1,0 +1,4 @@
+aiohttp>=3.4.0,<4.0.0
+aiohttp_security[session]>=0.4.0,<1.0.0
+cchardet>=2.0.0,<3.0.0
+aiodns>=1.1.0,<2.0.0
